@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hello! I am currently a MS student at Seoul National University, department of Statistics.
+I previously graduated from Seoul National University in 2023 with a B.S. in Statistics and Computer Science Engineering.
+
+
 <!--
 **Mincheol2/Mincheol2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
