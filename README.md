@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello! I am currently a M.S. student at Seoul National University, department of Statistics.
+Hello! I am currently a M.S. student at Seoul National University, Department of Statistics.
 
 I previously graduated from Seoul National University in 2023 with a B.S. in Statistics and Computer Science Engineering.
 
